@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react, javascript,html,css**
 
-- 📫 How to reach me **vijaythecoder69@gmail.com**
+- 📫 How to reach me ****
 - 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@vijay69_/296829e5-fd18-4129-bfcd-9f82eba85e58.png" /></a>
 <h3 align="left">Connect with me:</h3>
